@@ -1,6 +1,6 @@
 # This file for setup.py run
 
-PyYAML==6.0
+PyYAML==6.0.2
 click-help-colors==0.9.4
 click==8.1.7
 coloredlogs==15.0.1
